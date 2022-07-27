@@ -1,0 +1,31 @@
+.form {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    justify-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    gap: 20px;
+  }
+  .input-group {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  }
+  .input-text {
+    width: 240px;
+    height: 40px;
+    padding: 0 12px;
+    border-radius: 10px;
+    border: 0;
+    gap: 20px;
+  }
+  .label-name {
+    font-size: 16px;
+  }
+  .input-btn {
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+  }
